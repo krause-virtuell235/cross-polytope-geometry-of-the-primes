@@ -1,0 +1,15 @@
+{
+  "title": "A Cross-Polytope Geometry of the Primes - code and sources v1.0.0",
+  "upload_type": "software",
+  "description": "<p>LaTeX source, compiled PDF, figures, graphical abstract and the complete Python code behind every numerical finding of the preprint <em>A Cross-Polytope Geometry of the Primes: Orbit Minima, Exact Residue Counts, and Singular Series</em> by Thomas Krause, Preprints (2026), <a href=\"https://doi.org/10.20944/preprints202611.0311.v1\">doi:10.20944/preprints202611.0311.v1</a>.</p><p>The code reproduces the four structural theorems (orbit criterion, symmetry key lemma, completeness of orbit minima for k &ge; 6 with sharpness at k = 5, and the recursion p<sub>k+1</sub> = min B<sub>k</sub> \\ {1}) for k = 3..7, and recomputes all numerical findings with an independent NumPy sieve up to 10<sup>8</sup>.</p><p>Licences: code (paper/calc/, requirements.txt) under the MIT License; paper, figures and documentation under CC BY 4.0.</p>",
+  "creators": [
+    {"name": "Krause, Thomas", "affiliation": "Independent researcher, Lübeck, Germany", "orcid": "0009-0004-3867-9941"}
+  ],
+  "license": "MIT",
+  "keywords": ["cross-polytope", "16-cell", "primorial", "unit group", "sign-flip action", "orbit minima", "singular series", "Hardy-Littlewood", "Goldbach", "prime k-tuples"],
+  "related_identifiers": [
+    {"identifier": "10.20944/preprints202611.0311.v1", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-preprint"}
+  ],
+  "language": "eng",
+  "version": "v1.0.0"
+}
