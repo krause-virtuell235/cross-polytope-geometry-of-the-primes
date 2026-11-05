@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this material, please cite the preprint."
-title: "A Cross-Polytope Geometry of the Primes: Orbit Minima, Exact Residue Counts, and Singular Series"
+title: "A Cross-Polytope Geometry of the Primes – code and sources"
 authors:
   - family-names: Krause
     given-names: Thomas
@@ -8,9 +8,32 @@ authors:
     orcid: "https://orcid.org/0009-0004-3867-9941"
     email: krause-virtuell@web.de
 year: 2026
-doi: 10.20944/preprints202611.0311.v1
-url: "https://doi.org/10.20944/preprints202611.0311.v1"
-type: article
+doi: 10.5281/zenodo.23979568
+url: "https://doi.org/10.5281/zenodo.23979568"
+repository-code: "https://github.com/krause-virtuell235/cross-polytope-geometry-of-the-primes"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23979568
+    description: "Zenodo concept DOI (all versions of the code archive)"
+  - type: doi
+    value: 10.5281/zenodo.23979569
+    description: "Zenodo DOI of version v1.0.1"
+  - type: doi
+    value: 10.20944/preprints202611.0311.v1
+    description: "Preprint on preprints.org"
+type: software
 license:
   - MIT
   - CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "A Cross-Polytope Geometry of the Primes: Orbit Minima, Exact Residue Counts, and Singular Series"
+  authors:
+    - family-names: Krause
+      given-names: Thomas
+      affiliation: "Independent Researcher, Lübeck, Germany"
+      orcid: "https://orcid.org/0009-0004-3867-9941"
+  year: 2026
+  journal: "Preprints"
+  doi: 10.20944/preprints202611.0311.v1
+  url: "https://doi.org/10.20944/preprints202611.0311.v1"

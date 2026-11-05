@@ -1,11 +1,15 @@
 # A Cross-Polytope Geometry of the Primes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23979568.svg)](https://doi.org/10.5281/zenodo.23979568)
+
 **Orbit Minima, Exact Residue Counts, and Singular Series**
 
 Thomas Krause, Independent Researcher, Lübeck, Germany
 ORCID [0009-0004-3867-9941](https://orcid.org/0009-0004-3867-9941) · krause-virtuell@web.de
 
 Preprint: [doi:10.20944/preprints202611.0311.v1](https://doi.org/10.20944/preprints202611.0311.v1) (preprints.org, 2026)
+
+Code archive (Zenodo): [doi:10.5281/zenodo.23979568](https://doi.org/10.5281/zenodo.23979568) (all versions); v1.0.1: [doi:10.5281/zenodo.23979569](https://doi.org/10.5281/zenodo.23979569)
 
 This repository contains the LaTeX source, the compiled PDF, all figures and the complete Python code behind every numerical finding of the paper.
 
@@ -58,6 +62,10 @@ To compile the paper, upload `paper/synthesis_main.tex` together with the `figur
 See `CITATION.cff`, or cite:
 
 > T. Krause, *A Cross-Polytope Geometry of the Primes: Orbit Minima, Exact Residue Counts, and Singular Series*, Preprints (2026), doi:10.20944/preprints202611.0311.v1.
+
+To cite the code and sources specifically:
+
+> T. Krause, *A Cross-Polytope Geometry of the Primes – code and sources*, Zenodo (2026), doi:10.5281/zenodo.23979568.
 
 ## License
 
