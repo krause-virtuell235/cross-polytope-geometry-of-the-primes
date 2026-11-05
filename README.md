@@ -59,4 +59,9 @@ See `CITATION.cff`, or cite:
 
 > T. Krause, *A Cross-Polytope Geometry of the Primes: Orbit Minima, Exact Residue Counts, and Singular Series*, Preprints (2026), doi:10.20944/preprints202611.0311.v1.
 
-The paper itself is distributed under CC BY 4.0 by preprints.org.
+## License
+
+- **Code** (`paper/calc/`, `requirements.txt`): [MIT License](LICENSE).
+- **Paper, figures and documentation** (`paper/synthesis_main.tex`, `paper/synthesis_main.pdf`, `paper/figures/`, `paper/graphical_abstract.png`, `docs/`, this README): [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-CC-BY-4.0.txt), as for the preprint on preprints.org.
+
+© 2026 Thomas Krause

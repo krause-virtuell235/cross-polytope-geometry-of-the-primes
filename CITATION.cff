@@ -11,3 +11,6 @@ year: 2026
 doi: 10.20944/preprints202611.0311.v1
 url: "https://doi.org/10.20944/preprints202611.0311.v1"
 type: article
+license:
+  - MIT
+  - CC-BY-4.0
